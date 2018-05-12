@@ -1,0 +1,32 @@
+_repo: Le-comte-de-Moret_37771
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexander
+    - Dumas, Alexandre, pere
+    - Dumas père, Alexandre
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2011-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37771'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Louis XIII, 1610-1643 -- Fiction'
+- !lcc 'PQ'
+title: Le comte de Moret
+url: http://www.gutenberg.org/ebooks/37771
